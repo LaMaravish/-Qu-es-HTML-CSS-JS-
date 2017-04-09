@@ -1,0 +1,7 @@
+# Definitions-HTML-CSS-JAVASCRIPT
+HTML, CSS y JavaScript son los tres lenguajes que están en el centro de crear aplicaciones web, en este curso vamos a enseñarte principalmente JavaScript.
+
+HTML (lenguaje de marcas de hipertexto), es el lenguaje donde se define la información o el contenido del documento, el formato de los archivos es .html
+CSS (cascading style sheets), el lenguaje donde se especifica el diseño del documento, maneja todo lo relacionado con la parte visual, el formato de los archivos es .css
+JavaScript, el lenguaje que hace que todo sea interactivo, es realmente el lenguaje de programación que nos permite crear sitios web, el formato de los archivos es .js
+El que realmente interpreta estos lenguajes es el Navegador.
